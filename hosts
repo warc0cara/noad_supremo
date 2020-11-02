@@ -20,7 +20,7 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
-# MODIFICADO 05/09/20 #
+# MODIFICADO 01/11/20 #
 
 0.0.0.0 localhost
 ::1 localhost
@@ -92,6 +92,10 @@
 
 # MOBILE AD #
 
+0.0.0.0 beap.gemini.yahoo.com
+0.0.0.0 startapp.com
+0.0.0.0 aarki.net
+0.0.0.0 adx-west-imp.aarki.net
 0.0.0.0 api.appnxt.net
 0.0.0.0 appnxt.net
 0.0.0.0 www.appnext.com
