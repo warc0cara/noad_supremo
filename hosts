@@ -20,7 +20,7 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
-# MODIFICADO 01/11/20 #
+# MODIFICADO 07/12/20 #
 
 0.0.0.0 localhost
 ::1 localhost
@@ -37,6 +37,7 @@
 # XIAOMI AD #
 
 # USER PC #
+
 0.0.0.0 analytics.bandisoft.com
 0.0.0.0 serve.popads.net
 0.0.0.0 sdk.adtiming.com
@@ -92,6 +93,7 @@
 
 # MOBILE AD #
 
+0.0.0.0 mellowads.com
 0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 startapp.com
 0.0.0.0 aarki.net
@@ -112,6 +114,8 @@
 # 0.0.0.0 play-fe.googleapis.com
 # 0.0.0.0 connectivitycheck.gstatic.com
 # 0.0.0.0 googleusercontent.com
+# 0.0.0.0 android.clients.google.com
+# 0.0.0.0 android.l.google.com
 
 0.0.0.0 click.liftoff.io
 0.0.0.0 852u.adj.st
@@ -186,7 +190,6 @@
 0.0.0.0 fwmrm.net
 0.0.0.0 innovid.com
 0.0.0.0 2mdn.net
-0.0.0.0 android.clients.google.com
 0.0.0.0 onclkds.com
 0.0.0.0 img1.store.ksmobile.net
 0.0.0.0 store.ksmobile.net
