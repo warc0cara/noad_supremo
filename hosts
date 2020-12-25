@@ -20,7 +20,7 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
-# MODIFICADO 07/12/20 #
+# MODIFICADO 25/12/20 #
 
 0.0.0.0 localhost
 ::1 localhost
@@ -93,6 +93,10 @@
 
 # MOBILE AD #
 
+0.0.0.0 adcolony.com
+0.0.0.0 adcolony.inc
+0.0.0.0 galaksion.com
+0.0.0.0 51.195.21.154
 0.0.0.0 trafficfactory.biz
 0.0.0.0 date4fun.com
 0.0.0.0 rpc-php.trafficfactory.biz
