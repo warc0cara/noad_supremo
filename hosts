@@ -20,7 +20,7 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
-# MODIFICADO 25/12/20 #
+# MODIFICADO 19/01/21 #
 
 0.0.0.0 localhost
 ::1 localhost
@@ -38,6 +38,24 @@
 
 # USER PC #
 
+0.0.0.0 tryplaybest.com
+0.0.0.0 denetsuk.com
+0.0.0.0 onmarshtompor.com
+0.0.0.0 cdn.betgorebysson
+0.0.0.0 cdn.betgorebysson.club
+0.0.0.0 dailyinvesting.info
+0.0.0.0 onstunkyr.com
+0.0.0.0 offerimage.com
+0.0.0.0 trusted-redirect.com
+0.0.0.0 chaturbate.com
+0.0.0.0 lcdn.tsyndicate.com
+0.0.0.0 syndicate.com
+0.0.0.0 ads.eroadvertising.com
+0.0.0.0 go.eroadvertising.com
+0.0.0.0 static.eroadvertising.com
+0.0.0.0 eroadvertising.com
+0.0.0.0 webstats1.com
+0.0.0.0 webstats.com
 0.0.0.0 analytics.bandisoft.com
 0.0.0.0 serve.popads.net
 0.0.0.0 sdk.adtiming.com
