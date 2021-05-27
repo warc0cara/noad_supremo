@@ -20,7 +20,7 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
-# MODIFICADO 19/01/21 #
+# MODIFICADO 25/05/21 #
 
 0.0.0.0 localhost
 ::1 localhost
@@ -111,6 +111,7 @@
 
 # MOBILE AD #
 
+0.0.0.0 www.adsheavy.com
 0.0.0.0 adsheavy.com
 0.0.0.0 adsheavy.com.br
 0.0.0.0 adsheavy.net
