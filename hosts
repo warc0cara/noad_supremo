@@ -111,6 +111,10 @@
 
 # MOBILE AD #
 
+0.0.0.0 adsheavy.com
+0.0.0.0 adsheavy.com.br
+0.0.0.0 adsheavy.net
+0.0.0.0 cdn.adsheavy.com
 0.0.0.0 dash.applovin.com
 0.0.0.0 applovin.com
 0.0.0.0 42trck.com
