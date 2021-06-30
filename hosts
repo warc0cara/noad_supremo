@@ -111,6 +111,18 @@
 
 # MOBILE AD #
 
+0.0.0.0 rayjump.com
+0.0.0.0 doubleclick.net
+0.0.0.0 inmobi.com
+0.0.0.0 mobshark.net
+0.0.0.0 9appsapk.cc
+0.0.0.0 smaato.net
+0.0.0.0 sg01.rayjump.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 ads.inmobi.com
+0.0.0.0 dsp-adcreative.mobshark.net
+0.0.0.0 api.9appsapk.cc
+0.0.0.0 sdk-android.ad.smaato.net
 0.0.0.0 www.adsheavy.com
 0.0.0.0 adsheavy.com
 0.0.0.0 adsheavy.com.br
@@ -143,6 +155,7 @@
 0.0.0.0 cutter.li
 0.0.0.0 config.ad.snappea.com
 0.0.0.0 www.zomobi.net
+0.0.0.0 zomobi.net
 0.0.0.0 estrongs.com
 
 # 0.0.0.0 play-fe.googleapis.com
