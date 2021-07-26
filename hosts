@@ -20,7 +20,7 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
-# MODIFICADO 29/06/21 #
+# MODIFICADO 25/07/21 #
 
 0.0.0.0 localhost
 ::1 localhost
@@ -111,6 +111,25 @@
 
 # MOBILE AD #
 
+0.0.0.0 outbrain.com
+0.0.0.0 odb.outbrain.com
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 traffic.outbrain.com
+0.0.0.0 paid.outbrain.com
+0.0.0.0 images.outbrainimg.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 google-analytics.com
+0.0.0.0 adskeeper.com
+0.0.0.0 c.adskeeper.co.uk
+0.0.0.0 cdn.adskeeper.co.uk
+0.0.0.0 s-img.adskeeper.co.uk
+0.0.0.0 widgets.adskeeper.com
+0.0.0.0 adskeeper.co.uk
+0.0.0.0 vitaminews.com
+0.0.0.0 rfvtgb.vitaminews.com
+0.0.0.0 mgid.com
+0.0.0.0 wittymagazine.com
 0.0.0.0 rayjump.com
 0.0.0.0 doubleclick.net
 0.0.0.0 inmobi.com
@@ -128,6 +147,7 @@
 0.0.0.0 adsheavy.com.br
 0.0.0.0 adsheavy.net
 0.0.0.0 cdn.adsheavy.com
+0.0.0.0 api.adsheavy.com
 0.0.0.0 dash.applovin.com
 0.0.0.0 applovin.com
 0.0.0.0 42trck.com
@@ -157,13 +177,13 @@
 0.0.0.0 www.zomobi.net
 0.0.0.0 zomobi.net
 0.0.0.0 estrongs.com
-
+###
 # 0.0.0.0 play-fe.googleapis.com
 # 0.0.0.0 connectivitycheck.gstatic.com
 # 0.0.0.0 googleusercontent.com
 # 0.0.0.0 android.clients.google.com
 # 0.0.0.0 android.l.google.com
-
+###
 0.0.0.0 click.liftoff.io
 0.0.0.0 852u.adj.st
 0.0.0.0 e.crashlytics.com
