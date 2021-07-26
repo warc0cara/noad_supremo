@@ -111,6 +111,8 @@
 
 # MOBILE AD #
 
+0.0.0.0 addtoany.com
+0.0.0.0 static.addtoany.com
 0.0.0.0 outbrain.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 widgets.outbrain.com
