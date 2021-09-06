@@ -1,8 +1,9 @@
-#NOAD_SUPREMO - 29/08/21#
+#NOAD_SUPREMO - 06/09/21#
 #
 #colecao (PC\MOVEL) de hosts, para bloqueio de AD no celular, pc.#
 #
 #PADRAO ip v4/6#
+127.0.0.1 localhost
 0.0.0.0 localhost
 ::1 localhost
 #PADRAO ip v4/6#
