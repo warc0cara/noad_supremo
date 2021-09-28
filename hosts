@@ -1,4 +1,4 @@
-#NOAD_SUPREMO - 06/09/21#
+#NOAD_SUPREMO - 28/09/21#
 #
 #colecao (PC\MOVEL) de hosts, para bloqueio de AD no celular, pc.#
 #
@@ -25,6 +25,13 @@
 #XIAOMI AD#
 #
 #PC#
+0.0.0.0 tag.idsync.analytics.yahoo.com
+0.0.0.0 zemanta.com
+0.0.0.0 aka-cdn.adtechus.com
+0.0.0.0 adtechus.com
+0.0.0.0 jac.yahoosandbox.com
+0.0.0.0 yahoosandbox.com
+0.0.0.0 ent-api.msn.com
 0.0.0.0 sportlabs.online
 0.0.0.0 revcontent.com
 0.0.0.0 tryplaybest.com
