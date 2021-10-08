@@ -1,4 +1,4 @@
-#NOAD_SUPREMO - 28/09/21#
+#NOAD_SUPREMO - 07/10/21#
 #
 #colecao (PC\MOVEL) de hosts, para bloqueio de AD no celular, pc.#
 #
@@ -1395,6 +1395,7 @@
 0.0.0.0 bidease.com
 0.0.0.0 revx.io
 0.0.0.0 richads.com
+0.0.0.0 smartadserver.com
 0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 diff.smartadserver.com
 0.0.0.0 diff3.smartadserver.com
@@ -1438,6 +1439,7 @@
 0.0.0.0 ww2951.smartadserver.com
 0.0.0.0 ww3050.smartadserver.com
 0.0.0.0 ww3232.smartadserver.com
+0.0.0.0 ww1097.smartadserver.com
 0.0.0.0 adcash.com
 0.0.0.0 adaction.com
 0.0.0.0 performcb.com
