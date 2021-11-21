@@ -1,4 +1,4 @@
-#NOAD_SUPREMO - 07/10/21#
+#NOAD_SUPREMO - 20/11/21#
 #
 #colecao (PC\MOVEL) de hosts, para bloqueio de AD no celular, pc.#
 #
@@ -25,6 +25,8 @@
 #XIAOMI AD#
 #
 #PC#
+0.0.0.0 bet365.com
+0.0.0.0 bet365.com.br
 0.0.0.0 tag.idsync.analytics.yahoo.com
 0.0.0.0 zemanta.com
 0.0.0.0 aka-cdn.adtechus.com
