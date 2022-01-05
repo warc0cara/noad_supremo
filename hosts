@@ -1,10 +1,10 @@
-#NOAD_SUPREMO - 20/11/21#
+#NOAD_SUPREMO - 05/01/22#
 #
 #colecao (PC\MOVEL) de hosts, para bloqueio de AD no celular, pc.#
 #
 #PADRAO ip v4/6#
-127.0.0.1 localhost
 0.0.0.0 localhost
+127.0.0.1 localhost
 ::1 localhost
 #PADRAO ip v4/6#
 #
@@ -1445,4 +1445,32 @@
 0.0.0.0 adcash.com
 0.0.0.0 adaction.com
 0.0.0.0 performcb.com
+0.0.0.0 umeng.com
+0.0.0.0 umeng.co
+0.0.0.0 alog.umeng.co
+0.0.0.0 au.umeng.co
+0.0.0.0 oc.umeng.co
+0.0.0.0 alog.umeng.com
+0.0.0.0 alog-default.umeng.com
+0.0.0.0 alogs.umeng.com
+0.0.0.0 alogsus.umeng.com
+0.0.0.0 alogus.umeng.com
+0.0.0.0 ar.umeng.com
+0.0.0.0 at.umeng.com
+0.0.0.0 au.umeng.com
+0.0.0.0 errlog.umeng.com
+0.0.0.0 oc.umeng.com
+0.0.0.0 ocx.umeng.com
+0.0.0.0 ouplog.umeng.com
+0.0.0.0 plbslog.umeng.com
+0.0.0.0 sec.umeng.com
+0.0.0.0 ulogs.umeng.com
+0.0.0.0 umengcloud.com
+0.0.0.0 alog.umengcloud.com
+0.0.0.0 alogs.umengcloud.com
+0.0.0.0 ex.umengcloud.com
+0.0.0.0 msg.umengcloud.com
+0.0.0.0 ulogs.umengcloud.com
+0.0.0.0 upoll.umengcloud.com
+0.0.0.0 utop.umengcloud.com
 #MOBILE-AD#
