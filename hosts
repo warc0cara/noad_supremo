@@ -1,4 +1,4 @@
-#NOAD_SUPREMO - 05/01/22#
+#NOAD_SUPREMO - 20/06/22#
 #
 #colecao (PC\MOVEL) de hosts, para bloqueio de AD no celular, pc.#
 #
@@ -25,13 +25,42 @@
 #XIAOMI AD#
 #
 #PC#
+0.0.0.0 exoclick.com
+0.0.0.0 video.xlviirdr.com
+0.0.0.0 xlviirdr.com
+0.0.0.0 go.eabids.com
+0.0.0.0 eabids.com
+0.0.0.0 cdn.adaptv.advertising.com
+0.0.0.0 advertising.com
+0.0.0.0 adaptv.advertising.com
+0.0.0.0 ad-delivery.net
+0.0.0.0 zem.outbrainimg.com
+0.0.0.0 links.fresh8.co
+0.0.0.0 fresh8.co
+0.0.0.0 console-user-assets-cdn.fresh8.co
+0.0.0.0 cdn.fresh8.co
+0.0.0.0 f2.cdn.ftd.agency
+0.0.0.0 z.cdn.ftd.agency
+0.0.0.0 agency.com
 0.0.0.0 tag.idsync.analytics.yahoo.com
 0.0.0.0 zemanta.com
+0.0.0.0 b1sync.zemanta.com
 0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 adtechus.com
 0.0.0.0 jac.yahoosandbox.com
 0.0.0.0 yahoosandbox.com
-0.0.0.0 ent-api.msn.com
+0.0.0.0 srtb.msn.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 teams.events.data.microsoft.com
+0.0.0.0 mem.gfx.ms
+0.0.0.0 searchads.msn.net
+0.0.0.0 lg3.media.net
+0.0.0.0 media.net
+0.0.0.0 cvision.media.net
+0.0.0.0 vision.media.net
+0.0.0.0 akamaized.net
+#0.0.0.0 img-s-msn-com.akamaized.net
+0.0.0.0 res-a.akamaihd.net
 0.0.0.0 sportlabs.online
 0.0.0.0 revcontent.com
 0.0.0.0 tryplaybest.com
@@ -74,10 +103,8 @@
 0.0.0.0 mc.yandex.ru
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 bitsumactivationserver.com
-0.0.0.0 srtb.msn.com
 0.0.0.0 web.vortex.data.msn.com
 0.0.0.0 vidstat.taboola.com
-0.0.0.0 c.bing.com
 0.0.0.0 hbx.media.net
 0.0.0.0 syndication.twitter.com
 0.0.0.0 googletagmanager.com
@@ -88,13 +115,11 @@
 0.0.0.0 google-analytics.com
 0.0.0.0 horizon-track.globo.com
 0.0.0.0 fundingchoicesmessages.google.com
-0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 vitrines.globo.com
 0.0.0.0 cdn.krxd.net
 0.0.0.0 tags.t.tailtarget.com
 0.0.0.0 googletagservices.com
 0.0.0.0 horizon.globo.com
-0.0.0.0 teams.events.data.microsoft.com
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 tag.navdmp.com
 0.0.0.0 navdmp.com
@@ -122,6 +147,7 @@
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 paid.outbrain.com
 0.0.0.0 images.outbrainimg.com
+0.0.0.0 outbrainimg.com
 0.0.0.0 adskeeper.com
 0.0.0.0 c.adskeeper.co.uk
 0.0.0.0 cdn.adskeeper.co.uk
@@ -471,6 +497,7 @@
 0.0.0.0 match.adsrvr.com
 0.0.0.0 cds.taboola.com
 0.0.0.0 b.gemini.yahoo.com
+0.0.0.0 s.yimg.com
 0.0.0.0 pagead2.googlesyndcation.com
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pagead46.l.doubleclick.net
@@ -1444,31 +1471,4 @@
 0.0.0.0 adaction.com
 0.0.0.0 performcb.com
 0.0.0.0 umeng.com
-0.0.0.0 umeng.co
-0.0.0.0 alog.umeng.co
-0.0.0.0 au.umeng.co
-0.0.0.0 oc.umeng.co
-0.0.0.0 alog.umeng.com
-0.0.0.0 alog-default.umeng.com
-0.0.0.0 alogs.umeng.com
-0.0.0.0 alogsus.umeng.com
-0.0.0.0 alogus.umeng.com
-0.0.0.0 ar.umeng.com
-0.0.0.0 at.umeng.com
-0.0.0.0 au.umeng.com
-0.0.0.0 errlog.umeng.com
-0.0.0.0 oc.umeng.com
-0.0.0.0 ocx.umeng.com
-0.0.0.0 ouplog.umeng.com
-0.0.0.0 plbslog.umeng.com
-0.0.0.0 sec.umeng.com
-0.0.0.0 ulogs.umeng.com
-0.0.0.0 umengcloud.com
-0.0.0.0 alog.umengcloud.com
-0.0.0.0 alogs.umengcloud.com
-0.0.0.0 ex.umengcloud.com
-0.0.0.0 msg.umengcloud.com
-0.0.0.0 ulogs.umengcloud.com
-0.0.0.0 upoll.umengcloud.com
-0.0.0.0 utop.umengcloud.com
 #MOBILE-AD#
