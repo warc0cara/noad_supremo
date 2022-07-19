@@ -140,7 +140,7 @@
 #PC#
 #
 #MOBILE-AD#
-0.0.0.0 video.twimg.com
+#0.0.0.0 video.twimg.com
 0.0.0.0 pbd.twimg.com
 0.0.0.0 anonymous.ads.brave.com
 0.0.0.0 addtoany.com
