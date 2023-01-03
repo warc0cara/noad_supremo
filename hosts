@@ -1,4 +1,4 @@
-#NOAD_SUPREMO - 02/07/22#
+#NOAD_SUPREMO - 02/07/23#
 #
 #colecao (PC\MOVEL) de hosts, para bloqueio de AD no celular, pc.#
 #
@@ -25,6 +25,8 @@
 #XIAOMI AD#
 #
 #PC#
+0.0.0.0 nanouwho.com
+0.0.0.0 cryptomator-vault
 0.0.0.0 ackcdn.net
 0.0.0.0 exoclick.com
 0.0.0.0 video.xlviirdr.com
